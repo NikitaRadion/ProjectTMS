@@ -1,3 +1,4 @@
 # ProjectTMS
-1.npm install 
-2.yarn start 
+1.cd youclone
+2.npm install 
+3.yarn start 
